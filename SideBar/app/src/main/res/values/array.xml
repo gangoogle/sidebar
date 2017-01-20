@@ -1,0 +1,3812 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="userName">
+        <item>阿杜</item>
+
+        <item>阿牛</item>
+
+        <item>阿沁</item>
+
+        <item>安迪</item>
+
+        <item>阿吉仔</item>
+
+        <item>阿弟仔</item>
+
+        <item>阿弟</item>
+
+        <item>艾成</item>
+
+        <item>阿格</item>
+
+
+        <item>卜学亮</item>
+
+        <item>鲍比达</item>
+
+
+        <item>陈奕迅</item>
+
+        <item>陈小春</item>
+
+        <item>成龙</item>
+
+        <item>陈百强</item>
+
+        <item>曹格</item>
+
+        <item>蔡旻佑</item>
+
+        <item>陈晓东</item>
+
+        <item>陈冠蒲</item>
+
+        <item>陈升</item>
+
+        <item>侧田</item>
+
+        <item>陈雷</item>
+
+        <item>陈浩民</item>
+
+        <item>陈冠希</item>
+
+        <item>蔡国权</item>
+
+        <item>车继铃</item>
+
+        <item>蔡小虎</item>
+
+        <item>陈志朋</item>
+
+        <item>陈柏宇</item>
+
+        <item>蔡枫华</item>
+
+        <item>陈奕</item>
+
+        <item>陈世维</item>
+
+        <item>陈冠宇</item>
+
+        <item>陈仁丰</item>
+
+        <item>陈司翰</item>
+
+        <item>陈启泰</item>
+
+        <item>陈熙</item>
+
+        <item>陈建年</item>
+
+        <item>蔡一杰</item>
+
+        <item>陈纪匡</item>
+
+        <item>陈川晖</item>
+
+        <item>陈克华</item>
+
+        <item>陈占美</item>
+
+
+        <item>迪克牛仔</item>
+
+        <item>杜德伟</item>
+
+        <item>DJ</item>
+
+        <item>Tommy</item>
+
+        <item>邓健泓</item>
+
+        <item>窦智孔</item>
+
+        <item>邓建明</item>
+
+        <item>杜汶泽</item>
+
+        <item>丁子峻</item>
+
+
+        <item>范逸臣</item>
+
+        <item>方大同</item>
+
+        <item>费玉清</item>
+
+        <item>费翔</item>
+
+        <item>方力申</item>
+
+        <item>冯德伦</item>
+
+        <item>房祖名</item>
+
+        <item>范宗沛</item>
+
+
+        <item>光良</item>
+
+        <item>古巨基</item>
+
+        <item>郭富城</item>
+
+        <item>古天乐</item>
+
+        <item>高明骏</item>
+
+        <item>高凌风</item>
+
+        <item>关正杰</item>
+
+        <item>郭品超</item>
+
+        <item>关智斌</item>
+
+        <item>关楚耀</item>
+
+        <item>古皓</item>
+
+        <item>郭力行</item>
+
+        <item>高远</item>
+
+        <item>关德辉</item>
+
+        <item>高皓正</item>
+
+        <item>关威</item>
+
+        <item>郭子</item>
+
+        <item>恭硕良</item>
+
+        <item>葛民辉</item>
+
+
+        <item>黄品源</item>
+
+        <item>黄义达</item>
+
+        <item>黄立行</item>
+
+        <item>黄家驹</item>
+
+        <item>黄安</item>
+
+        <item>何俊明</item>
+
+        <item>黄征</item>
+
+        <item>黄凯芹</item>
+
+        <item>何润东</item>
+
+        <item>黄国俊</item>
+
+        <item>黄耀明</item>
+
+        <item>黄靖伦</item>
+
+        <item>黄大炜</item>
+
+        <item>洪卓立</item>
+
+        <item>黄崇旭</item>
+
+        <item>黄家强</item>
+
+        <item>何维健</item>
+
+        <item>红布条</item>
+
+        <item>黄霑</item>
+
+        <item>黄建为</item>
+
+        <item>霍建华</item>
+
+        <item>黄舒骏</item>
+
+        <item>黄威尔</item>
+
+        <item>黄维德</item>
+
+        <item>黄贯中</item>
+
+        <item>黄一飞</item>
+
+        <item>黄秋生</item>
+
+        <item>洪荣宏</item>
+
+        <item>黄心懋</item>
+
+        <item>胡瓜</item>
+
+        <item>哈菲子</item>
+
+        <item>黄子华</item>
+
+        <item>贺一航</item>
+
+        <item>黄子佼</item>
+
+        <item>胡德夫</item>
+
+        <item>黄俊源</item>
+
+        <item>黄永灿</item>
+
+        <item>汉洋</item>
+
+        <item>韩贤光</item>
+
+        <item>胡诺言</item>
+
+        <item>胡元恺</item>
+
+        <item>黄湛熙</item>
+
+        <item>黄伟文</item>
+
+
+        <item>姜育恒</item>
+
+        <item>江凯文</item>
+
+        <item>几米</item>
+
+        <item>夹子小应</item>
+
+        <item>江华</item>
+
+        <item>蒋荣宗</item>
+
+        <item>假音人</item>
+
+
+        <item>康康</item>
+
+        <item>柯有纶</item>
+
+        <item>孔令奇</item>
+
+        <item>孔睦寰</item>
+
+
+        <item>刘德华</item>
+
+        <item>林俊杰</item>
+
+        <item>罗志祥</item>
+
+        <item>罗百吉</item>
+
+        <item>李圣杰</item>
+
+        <item>罗大佑</item>
+
+        <item>黎明</item>
+
+        <item>李克勤</item>
+
+        <item>林志炫</item>
+
+        <item>林志颖</item>
+
+        <item>吕方</item>
+
+        <item>李宗盛</item>
+
+        <item>林子祥</item>
+
+        <item>林峰</item>
+
+        <item>罗文</item>
+
+        <item>梁汉文</item>
+
+        <item>刘文正</item>
+
+        <item>刘允乐</item>
+
+        <item>林宇中</item>
+
+        <item>李茂山</item>
+
+        <item>梁朝伟</item>
+
+        <item>蓝奕邦</item>
+
+        <item>罗宾</item>
+
+        <item>廖伟力</item>
+
+        <item>罗嘉良</item>
+
+        <item>卢广仲</item>
+
+        <item>刘畊宏</item>
+
+        <item>卢冠廷</item>
+
+        <item>卢学叡</item>
+
+        <item>林隆璇</item>
+
+        <item>李国祥</item>
+
+        <item>刘锡明</item>
+
+        <item>刘浩龙</item>
+
+        <item>林保怡</item>
+
+        <item>李威</item>
+
+        <item>林一峰</item>
+
+        <item>李炆</item>
+
+        <item>罗时丰</item>
+
+        <item>林海峰</item>
+
+        <item>李建复</item>
+
+        <item>黎沸挥</item>
+
+        <item>李杰</item>
+
+        <item>林佑威</item>
+
+        <item>立威廉</item>
+
+        <item>李岗霖</item>
+
+        <item>李吉汉</item>
+
+        <item>林子良</item>
+
+        <item>李明洋</item>
+
+        <item>李逸朗</item>
+
+        <item>李正帆</item>
+
+        <item>伦永亮</item>
+
+        <item>林俊吉</item>
+
+        <item>刘以达</item>
+
+        <item>刘恺威</item>
+
+        <item>李恕权</item>
+
+        <item>刘一</item>
+
+        <item>廖士贤</item>
+
+        <item>李志清</item>
+
+        <item>李嘉强</item>
+
+        <item>雷有辉</item>
+
+        <item>林威辰</item>
+
+        <item>刘日曦</item>
+
+
+        <item>mc hot dog</item>
+
+        <item>麦浚龙</item>
+
+        <item>马浚伟</item>
+
+        <item>马兆骏</item>
+
+        <item>马旭成</item>
+
+        <item>莫少聪</item>
+
+        <item>马德钟</item>
+
+        <item>mc仁</item>
+
+
+        <item>欧得洋</item>
+
+        <item>区瑞强</item>
+
+        <item>区俊涛</item>
+
+
+        <item>潘玮柏</item>
+
+        <item>品冠</item>
+
+        <item>潘安邦</item>
+
+        <item>潘裕文</item>
+
+        <item>澎恰恰</item>
+
+
+        <item>齐秦</item>
+
+        <item>邱泽</item>
+
+        <item>钱韦成</item>
+
+
+        <item>任贤齐</item>
+
+
+        <item>苏永康</item>
+
+        <item>孙耀威</item>
+
+        <item>苏有朋</item>
+
+        <item>宋岳庭</item>
+
+        <item>施文彬</item>
+
+        <item>沈文程</item>
+
+        <item>沈建宏</item>
+
+        <item>石康军</item>
+
+        <item>孙协志</item>
+
+        <item>苏儿真</item>
+
+
+        <item>谭咏麟</item>
+
+        <item>陶喆</item>
+
+        <item>唐禹哲</item>
+
+        <item>Tank</item>
+
+        <item>童安格</item>
+
+        <item>邰正宵</item>
+
+        <item>Tension</item>
+
+        <item>泰迪罗宾</item>
+
+        <item>屠颖</item>
+
+        <item>TAE</item>
+
+
+        <item>王力宏</item>
+
+        <item>吴克群</item>
+
+        <item>伍佰</item>
+
+        <item>王杰</item>
+
+        <item>巫启贤</item>
+
+        <item>吴奇隆</item>
+
+        <item>温兆伦</item>
+
+        <item>伍思凯</item>
+
+        <item>翁立友</item>
+
+        <item>吴宗宪</item>
+
+        <item>吴建豪</item>
+
+        <item>文章</item>
+
+        <item>王识贤</item>
+
+        <item>吴浩康</item>
+
+        <item>吴彤</item>
+
+        <item>王传一</item>
+
+        <item>温力铭</item>
+
+        <item>王建杰</item>
+
+        <item>吴卓羲</item>
+
+        <item>王宏恩</item>
+
+        <item>伍家辉</item>
+
+        <item>王喜</item>
+
+        <item>吴佳展</item>
+
+        <item>吴晟</item>
+
+        <item>伍乐城</item>
+
+
+        <item>谢霆锋</item>
+
+        <item>萧敬腾</item>
+
+        <item>信</item>
+
+        <item>许冠杰</item>
+
+        <item>许志安</item>
+
+        <item>许绍洋</item>
+
+        <item>熊天平</item>
+
+        <item>萧煌奇</item>
+
+        <item>萧闳仁</item>
+
+        <item>小虫</item>
+
+        <item>萧正楠</item>
+
+        <item>徐小明</item>
+
+        <item>许仁杰</item>
+
+        <item>夏韶声</item>
+
+        <item>小高</item>
+
+        <item>许怀欣</item>
+
+
+        <item>游鸿明</item>
+
+        <item>庾澄庆</item>
+
+        <item>杨培安</item>
+
+        <item>永邦</item>
+
+        <item>叶启田</item>
+
+        <item>袁耀发</item>
+
+        <item>言承旭</item>
+
+        <item>袁惟仁</item>
+
+        <item>叶振棠</item>
+
+        <item>游学志</item>
+
+        <item>余文乐</item>
+
+        <item>杨庆煌</item>
+
+        <item>叶乃文</item>
+
+        <item>袁小迪</item>
+
+        <item>易桀齐</item>
+
+        <item>叶世荣</item>
+
+        <item>叶文辉</item>
+
+        <item>叶佳修</item>
+
+        <item>杨瑞代</item>
+
+        <item>应昌佑</item>
+
+        <item>叶宇澄</item>
+
+        <item>尹子维</item>
+
+
+        <item>周杰伦</item>
+
+        <item>张学友</item>
+
+        <item>周华健</item>
+
+        <item>张信哲</item>
+
+        <item>张雨生</item>
+
+        <item>周传雄</item>
+
+        <item>张震岳</item>
+
+        <item>张宇</item>
+
+        <item>张国荣</item>
+
+        <item>郑智化</item>
+
+        <item>张栋梁</item>
+
+        <item>赵传</item>
+
+        <item>郑中基</item>
+
+        <item>郑伊健</item>
+
+        <item>张卫健</item>
+
+        <item>张明敏</item>
+
+        <item>张镐哲</item>
+
+        <item>郑少秋</item>
+
+        <item>张帝</item>
+
+        <item>钟镇涛</item>
+
+        <item>张智成</item>
+
+        <item>张智霖</item>
+
+        <item>张洪量</item>
+
+        <item>周渝民</item>
+
+        <item>张真</item>
+
+        <item>张克帆</item>
+
+        <item>周定纬</item>
+
+        <item>朱孝天</item>
+
+        <item>周启生</item>
+
+        <item>张峰奇</item>
+
+        <item>钟盛忠</item>
+
+        <item>周治平</item>
+
+        <item>周俊伟</item>
+
+        <item>周润发</item>
+
+        <item>周柏豪</item>
+
+        <item>张伟文</item>
+
+        <item>钟汉良</item>
+
+        <item>郑进一</item>
+
+        <item>张善为</item>
+
+        <item>郑嘉颖</item>
+
+        <item>卓义峰</item>
+
+        <item>张继聪</item>
+
+        <item>张嘉洵</item>
+
+        <item>曾国辉</item>
+
+        <item>张家辉</item>
+
+        <item>钟伟</item>
+
+        <item>张菲</item>
+
+        <item>张觉隆</item>
+
+        <item>周国贤</item>
+
+        <item>祝钒刚</item>
+
+        <item>周永恒</item>
+
+        <item>郑伦境</item>
+
+        <item>阿桑</item>
+
+        <item>阿雅</item>
+
+        <item>安以轩</item>
+
+
+        <item>本多RuRu</item>
+
+        <item>包美圣</item>
+
+        <item>白冰冰</item>
+
+
+        <item>蔡依林</item>
+
+        <item>陈绮贞</item>
+
+        <item>陈慧琳</item>
+
+        <item>陈慧娴</item>
+
+        <item>蔡琴</item>
+
+        <item>蔡健雅</item>
+
+        <item>蔡淳佳</item>
+
+        <item>陈淑桦</item>
+
+        <item>蔡卓妍</item>
+
+        <item>陈明真</item>
+
+        <item>蔡幸娟</item>
+
+        <item>蔡秋凤</item>
+
+        <item>陈海铃</item>
+
+        <item>陈珊妮</item>
+
+        <item>陈嘉唯</item>
+
+        <item>陈思安</item>
+
+        <item>陈洁仪</item>
+
+        <item>陈诗慧</item>
+
+        <item>陈慧珊</item>
+
+        <item>陈美</item>
+
+        <item>陈秀雯</item>
+
+        <item>陈文媛</item>
+
+        <item>陈盈洁</item>
+
+        <item>陈悦</item>
+
+        <item>陈秋霞</item>
+
+        <item>陈淑萍</item>
+
+        <item>陈宝珠</item>
+
+        <item>车婉婉</item>
+
+        <item>陈依依</item>
+
+        <item>陈松伶</item>
+
+        <item>陈诗莉</item>
+
+        <item>陈凤</item>
+
+        <item>陈予新</item>
+
+        <item>陈瑀涵</item>
+
+        <item>陈苑淇</item>
+
+        <item>陈美凤</item>
+
+        <item>陈晓琪</item>
+
+        <item>陈崴</item>
+
+        <item>陈思慧</item>
+
+        <item>陈见飞</item>
+
+        <item>陈淑杏</item>
+
+        <item>蔡汶家</item>
+
+        <item>陈双</item>
+
+
+        <item>邓丽君</item>
+
+        <item>戴佩妮</item>
+
+        <item>邓丽欣</item>
+
+        <item>丁当</item>
+
+        <item>戴爱玲</item>
+
+        <item>邓颖芝</item>
+
+        <item>杜丽莎</item>
+
+        <item>邓妙华</item>
+
+        <item>戴辛尉</item>
+
+        <item>丁文琪</item>
+
+        <item>丁菲飞</item>
+
+        <item>戴梦梦</item>
+
+        <item>大芭</item>
+
+        <item>董敏莉</item>
+
+
+        <item>Ella</item>
+
+
+        <item>范晓萱</item>
+
+        <item>凤飞飞</item>
+
+        <item>傅颖</item>
+
+        <item>方季惟</item>
+
+        <item>范文芳</item>
+
+        <item>冯玮君</item>
+
+        <item>方怡萍</item>
+
+        <item>傅佩嘉</item>
+
+        <item>凤娘</item>
+
+        <item>方皓玟</item>
+
+        <item>凡妮莎</item>
+
+        <item>方瑞娥</item>
+
+        <item>范怡文</item>
+
+        <item>方滢</item>
+
+        <item>范萱蔚</item>
+
+
+        <item>高胜美</item>
+
+        <item>郭美美</item>
+
+        <item>郭静</item>
+
+        <item>关淑怡</item>
+
+        <item>关心妍</item>
+
+        <item>龚诗嘉</item>
+
+        <item>郭采洁</item>
+
+        <item>关菊英</item>
+
+        <item>顾莉雅</item>
+
+        <item>高慧君</item>
+
+        <item>关之琳</item>
+
+        <item>官恩娜</item>
+
+        <item>龚柯允</item>
+        <item>韩宝仪</item>
+
+        <item>黄丽玲</item>
+
+        <item>黄乙玲</item>
+
+        <item>黄莺莺</item>
+
+        <item>侯湘婷</item>
+
+        <item>何韵诗</item>
+
+        <item>黄小琥</item>
+
+        <item>黄思婷</item>
+
+        <item>何耀珊</item>
+
+        <item>黄淑惠</item>
+
+        <item>韩东</item>
+
+        <item>胡杏儿</item>
+
+        <item>黄湘怡</item>
+
+        <item>黄伊汶</item>
+
+        <item>黄韵玲</item>
+
+        <item>胡琳</item>
+
+        <item>黄红英</item>
+
+        <item>何以奇</item>
+
+        <item>黄妃</item>
+
+        <item>胡美仪</item>
+
+        <item>何欣穗</item>
+
+        <item>何俐恩</item>
+
+        <item>何超仪</item>
+
+        <item>胡蓓蔚</item>
+
+        <item>洪暐</item>
+
+        <item>黄馨</item>
+
+        <item>黄嘉千</item>
+
+        <item>黄慧音</item>
+
+        <item>黄淇</item>
+
+        <item>黄铃</item>
+
+
+        <item>江美琪</item>
+
+        <item>江蕙</item>
+
+        <item>江语晨</item>
+
+        <item>季欣霈</item>
+
+        <item>江淑娜</item>
+
+        <item>纪如璟</item>
+
+        <item>贾立怡</item>
+
+        <item>江若琳</item>
+
+        <item>甲子慧</item>
+
+        <item>蒋雅文</item>
+
+        <item>江美丽</item>
+
+        <item>纪利</item>
+
+        <item>嘉琳</item>
+
+        <item>津亭</item>
+
+
+        <item>柯以敏</item>
+
+        <item>邝美云</item>
+
+        <item>邝文珣</item>
+
+        <item>康净淳</item>
+
+
+        <item>梁静茹</item>
+
+        <item>刘若英</item>
+
+        <item>林忆莲</item>
+
+        <item>梁咏琪</item>
+
+        <item>李雅微</item>
+
+        <item>李翊君</item>
+
+        <item>李玟</item>
+
+        <item>林心如</item>
+
+        <item>龙飘飘</item>
+
+        <item>林凡</item>
+
+        <item>卢巧音</item>
+
+        <item>李彩桦</item>
+
+        <item>梁文音</item>
+
+        <item>李丽芬</item>
+
+        <item>林玉英</item>
+
+        <item>罗忆诗</item>
+
+        <item>林冠吟</item>
+
+        <item>赖雅妍</item>
+
+        <item>龙千玉</item>
+
+        <item>蓝心湄</item>
+
+        <item>林晓培</item>
+
+        <item>黎瑞恩</item>
+
+        <item>林姗</item>
+
+        <item>李碧华</item>
+
+        <item>林嘉欣</item>
+
+        <item>吕珊</item>
+
+        <item>刘美君</item>
+
+        <item>李度</item>
+
+        <item>罗美玲</item>
+
+        <item>李心洁</item>
+
+        <item>林志美</item>
+
+        <item>梁洛施</item>
+
+        <item>林慧萍</item>
+
+        <item>刘雅丽</item>
+
+        <item>林宝</item>
+
+        <item>林良乐</item>
+
+        <item>林子娟</item>
+
+        <item>廖隽嘉</item>
+
+        <item>李妍瑾</item>
+
+        <item>路嘉欣</item>
+
+        <item>雷光夏</item>
+
+        <item>李蕙敏</item>
+
+        <item>林苑</item>
+
+        <item>刘虹桦</item>
+
+        <item>罗敏庄</item>
+
+        <item>刘依纯</item>
+
+        <item>李欣芸</item>
+
+        <item>刘虹翎</item>
+
+        <item>李乐诗</item>
+
+        <item>李卓庭</item>
+
+        <item>李嘉</item>
+
+        <item>刘纯如</item>
+
+        <item>林美</item>
+
+        <item>梁靖琪</item>
+
+        <item>林少英</item>
+
+
+        <item>莫文蔚</item>
+
+        <item>孟庭苇</item>
+
+        <item>梅艳芳</item>
+
+        <item>美心</item>
+
+        <item>麦洁文</item>
+
+
+        <item>欧阳菲菲</item>
+
+        <item>欧倩怡</item>
+
+        <item>区小丽</item>
+
+
+        <item>彭佳慧</item>
+
+        <item>潘美辰</item>
+
+        <item>彭羚</item>
+
+        <item>潘越云</item>
+
+        <item>潘嘉丽</item>
+
+        <item>彭靖惠</item>
+
+        <item>彭海桐</item>
+
+
+        <item>裘海正</item>
+
+        <item>齐豫</item>
+
+        <item>千百惠</item>
+
+
+        <item>容祖儿</item>
+
+        <item>阮丹青</item>
+
+        <item>芮恩</item>
+
+
+        <item>孙燕姿</item>
+
+        <item>苏芮</item>
+
+        <item>苏慧伦</item>
+
+        <item>顺子</item>
+
+        <item>石欣卉</item>
+
+        <item>孙淑媚</item>
+
+        <item>Susan</item>
+
+        <item>Wong</item>
+
+        <item>苏又镕</item>
+
+        <item>宋新妮</item>
+
+        <item>沈芳如</item>
+
+        <item>孙翠凤</item>
+
+
+        <item>陶晶莹</item>
+
+        <item>Tata Young</item>
+
+        <item>同恩</item>
+
+        <item>汤宝如</item>
+
+        <item>堂娜</item>
+
+        <item>陶莉萍</item>
+
+        <item>唐宁</item>
+
+        <item>涂紫凝</item>
+
+
+        <item>王菲</item>
+
+        <item>王心凌</item>
+
+        <item>王若琳</item>
+
+        <item>温岚</item>
+
+        <item>王蓉</item>
+
+        <item>卫兰</item>
+
+        <item>吴佩慈</item>
+
+        <item>汪明荃</item>
+
+        <item>吴雨霏</item>
+
+        <item>娃娃</item>
+
+        <item>王馨平</item>
+
+        <item>万芳</item>
+
+        <item>王菀之</item>
+
+        <item>王羚柔</item>
+
+        <item>卫诗</item>
+
+        <item>魏如萱</item>
+
+        <item>汪佩蓉</item>
+
+        <item>王瑞霞</item>
+
+        <item>翁倩玉</item>
+
+        <item>温碧霞</item>
+
+        <item>吴倩莲</item>
+
+        <item>魏如昀</item>
+
+        <item>王芷蕾</item>
+
+        <item>吴淑敏</item>
+
+        <item>吴日言</item>
+
+        <item>王汶玲</item>
+
+        <item>王秀琳</item>
+
+        <item>伍咏薇</item>
+
+        <item>薇恩</item>
+
+        <item>王渝</item>
+
+        <item>王雅文</item>
+
+
+        "X">
+
+        <item>萧亚轩</item>
+
+        <item>徐若瑄</item>
+
+        <item>许茹芸</item>
+
+        <item>许美静</item>
+
+        <item>徐小凤</item>
+
+        <item>许慧欣</item>
+
+        <item>薛凯琪</item>
+
+        <item>辛晓琪</item>
+
+        <item>徐怀钰</item>
+
+        <item>谢安琪</item>
+
+        <item>谢金燕</item>
+
+        <item>萧萧</item>
+
+        <item>小雪</item>
+
+        <item>萧贺硕</item>
+
+        <item>向蕙玲</item>
+
+        <item>小辣椒</item>
+
+        <item>萧蔷</item>
+
+        <item>薛家燕</item>
+
+        <item>小安</item>
+
+        <item>萧淑慎</item>
+
+        <item>欣彦</item>
+
+        <item>许景淳</item>
+
+        <item>谢莉婷</item>
+
+        <item>许雅涵</item>
+
+        <item>萧孋珠</item>
+
+        <item>许嘉凌</item>
+
+        <item>小龙女</item>
+
+        <item>辛小玲</item>
+
+        <item>谢巧丹</item>
+
+        <item>玺恩</item>
+
+        <item>萱宁</item>
+
+
+        <item>杨丞琳</item>
+
+        <item>叶倩文</item>
+
+        <item>元若蓝</item>
+
+        <item>伊能静</item>
+
+        <item>叶丽仪</item>
+
+        <item>泳儿</item>
+
+        <item>杨千嬅</item>
+
+        <item>游喧</item>
+
+        <item>杨林</item>
+
+        <item>阎韦伶</item>
+
+        <item>杨乃文</item>
+
+        <item>殷悦</item>
+
+        <item>叶玉卿</item>
+
+        <item>叶欢</item>
+
+        <item>宇恒</item>
+
+        <item>尤雅</item>
+
+        <item>于台烟</item>
+
+        <item>叶德娴</item>
+
+        <item>严淑明</item>
+
+        <item>杨丽莎</item>
+
+        <item>叶佩雯</item>
+
+        <item>有耳非文</item>
+
+        <item>伊雪</item>
+
+        <item>杨普评</item>
+
+
+        <item>张惠妹</item>
+
+        <item>卓依婷</item>
+
+        <item>卓文萱</item>
+
+        <item>郑秀文</item>
+
+        <item>张柏芝</item>
+
+        <item>赵咏华</item>
+
+        <item>甄妮</item>
+
+        <item>张悬</item>
+
+        <item>周慧敏</item>
+
+        <item>周丽淇</item>
+
+        <item>周蕙</item>
+
+        <item>张艾嘉</item>
+
+        <item>张玉华</item>
+
+        <item>钟嘉欣</item>
+
+        <item>郑希怡</item>
+
+        <item>张德兰</item>
+
+        <item>曾宝仪</item>
+
+        <item>钟汶</item>
+
+        <item>钟舒漫</item>
+
+        <item>张清芳</item>
+
+        <item>张惠春</item>
+
+        <item>张芯瑜</item>
+
+        <item>郑融</item>
+
+        <item>张蓉蓉</item>
+
+        <item>赵学而</item>
+
+        <item>詹雅雯</item>
+
+        <item>张秀卿</item>
+
+        <item>朱茵</item>
+
+        <item>朱安禹</item>
+
+        <item>曾淑勤</item>
+
+        <item>赵颂茹</item>
+
+        <item>赵雅芝</item>
+
+        <item>钟晓玉</item>
+
+        <item>周宜莹</item>
+
+        <item>詹雪琳</item>
+
+        <item>赵之璧</item>
+
+        <item>郑琇月</item>
+
+        <item>张佩金</item>
+
+        <item>张燊悦</item>
+
+        <item>张美玲</item>
+
+        <item>张可芝</item>
+
+        <item>甄子维</item>
+
+
+        <item>ai mini</item>
+
+        <item>阿妹妹</item>
+
+        <item>阿爆.Brandy</item>
+
+        <item>A-SHOW</item>
+
+        <item>At17</item>
+
+        <item>阿霈乐团</item>
+
+        <item>aniDa</item>
+
+
+        <item>Beyond</item>
+
+        <item>by2</item>
+
+        <item>棒棒堂</item>
+
+        <item>芭比娃娃</item>
+
+        <item>办桌二人组</item>
+
+        <item>芭比</item>
+
+        <item>BOB</item>
+
+        <item>棒棒天使</item>
+
+        <item>B.A.D</item>
+
+        <item>八三夭</item>
+
+        <item>bliss</item>
+
+        <item>白目乐队</item>
+
+
+        <item>草蜢</item>
+
+        <item>Cream</item>
+
+        <item>超口爱乐团</item>
+
+        <item>Cookies</item>
+
+        <item>橙草</item>
+
+        <item>参劈</item>
+
+        <item>崇基崇德</item>
+
+        <item>刺客乐团</item>
+
+        <item>crossfire</item>
+
+
+        <item>动力火车</item>
+
+        <item>达明一派</item>
+
+        <item>大囍门</item>
+
+        <item>董事长乐团</item>
+
+        <item>动静乐团</item>
+
+        <item>Doremi</item>
+
+        <item>Dragons</item>
+
+        <item>5</item>
+
+
+        <item>Energy</item>
+
+        <item>EO2</item>
+
+        <item>E-kids</item>
+
+        <item>echo</item>
+
+
+        <item>飞轮海</item>
+
+        <item>F.I.R</item>
+
+        <item>F4</item>
+
+        <item>fire</item>
+
+        <item>风采姐妹</item>
+
+        <item>凡人二重唱</item>
+
+        <item>Freeze</item>
+
+
+        <item>哥哥妹妹</item>
+
+        <item>公主帮</item>
+
+
+        <item>黑Girl</item>
+
+        <item>HotCha</item>
+
+        <item>好男人</item>
+
+        <item>红孩儿</item>
+
+        <item>火星人</item>
+
+        <item>红唇族</item>
+
+        <item>昊恩家家</item>
+
+        <item>胡椒猫乐团</item>
+
+        <item>红蚂蚁</item>
+
+        <item>黑色饼干</item>
+
+
+        <item>I Love You</item>
+
+        <item>Boyz</item>
+
+        <item>i.n.g</item>
+
+
+        <item>JS</item>
+
+        <item>锦绣二重唱</item>
+
+        <item>极光乐团</item>
+
+        <item>J.A.M</item>
+
+
+        <item>可米小子</item>
+
+        <item>K One</item>
+
+        <item>Krusty</item>
+
+        <item>Kolor</item>
+
+
+        <item>lexington</item>
+
+        <item>bridge</item>
+
+        <item>六翼天使</item>
+
+        <item>六甲乐团</item>
+
+        <item>L.A.四贱客</item>
+
+
+        <item>麻吉弟弟</item>
+
+        <item>蜜雪薇琪</item>
+
+        <item>My Little</item>
+
+        <item>Airport</item>
+
+        <item>米儿丝</item>
+
+        <item>梦剧院</item>
+
+
+        <item>南拳妈妈</item>
+
+        <item>南合文斗</item>
+
+        <item>农夫</item>
+
+        <item>女生宿舍</item>
+
+        <item>纽约客</item>
+
+        <item>南方二重唱</item>
+
+        <item>年少二人组</item>
+
+        <item>糯米团</item>
+
+        <item>newz</item>
+
+        <item>neon乐团</item>
+
+
+        <item>One Fifth</item>
+
+        <item>欧喷爱</item>
+
+
+        <item>泼猴</item>
+
+        <item>PixelToy</item>
+
+        <item>痞客四</item>
+
+
+        <item>巧千金</item>
+
+        <item>强辩乐团</item>
+
+        <item>七朵花</item>
+
+        <item>青蛙</item>
+
+        <item>雀斑</item>
+
+        <item>秋红乐队</item>
+
+        <item>丘丘合唱团</item>
+
+
+        <item>人工卫星</item>
+
+        <item>RAY</item>
+
+
+        <item>S.H.E</item>
+
+        <item>苏打绿</item>
+
+        <item>Sweety</item>
+
+        <item>神木与瞳</item>
+
+        <item>三角cool</item>
+
+        <item>StyLe</item>
+
+        <item>Seven</item>
+
+        <item>深白色2人组</item>
+
+        <item>Soler</item>
+
+        <item>闪亮三姊妹</item>
+
+        <item>使者</item>
+
+        <item>深南大道</item>
+
+        <item>四分卫</item>
+
+        <item>丝袜小姐</item>
+
+        <item>SM大乐队</item>
+
+        <item>神秘失控人声乐团</item>
+
+        <item>森美移动</item>
+
+        <item>Seven7rock</item>
+
+        <item>superday</item>
+
+
+        <item>Twins</item>
+
+        <item>铁竹堂</item>
+
+        <item>天使之翼合唱团</item>
+
+        <item>太极</item>
+
+        <item>Tizzy Bac</item>
+
+        <item>the vega</item>
+
+        <item>甜梅号</item>
+
+        <item>Tat Flip</item>
+
+
+        <item>VRF</item>
+
+
+        <item>五月天</item>
+
+        <item>无印良品</item>
+
+        <item>旺福</item>
+
+        <item>丸子</item>
+
+        <item>WEWE</item>
+
+
+        <item>信乐团</item>
+
+        <item>小虎队</item>
+
+        <item>小F4</item>
+
+        <item>嘻哈高校</item>
+
+        <item>夏日娃娃</item>
+
+        <item>熊宝贝乐团</item>
+
+        <item>香港儿童合唱团</item>
+
+        <item>香港群星</item>
+
+        <item>小护士乐团</item>
+
+        <item>星盒子</item>
+
+        <item>x</item>
+
+        <item>新宝岛康乐队</item>
+
+        <item>XL特大号乐团</item>
+
+
+        <item>YUMMY</item>
+
+        <item>元卫觉醒</item>
+
+        <item>樱桃帮</item>
+
+        <item>优客李林</item>
+
+        <item>翼势力</item>
+
+        <item>Y.I.Y.O</item>
+
+        <item>野仔</item>
+
+
+        <item>中国娃娃</item>
+
+        <item>自然卷</item>
+
+        <item>ZAYIN</item>
+
+        <item>蟑螂</item>
+
+        <item>宅男塾</item>
+
+        <item>zero</item>
+
+        <item>猪头皮</item>
+
+        <item>朱凌凌</item>
+
+
+        <item>183Club</item>
+
+        <item>5566</item>
+
+        <item>4 in love</item>
+
+        <item>1976</item>
+
+        <item>2女</item>
+
+        <item>2moro</item>
+
+
+        <item>阿宝</item>
+
+        <item>安琥</item>
+
+        <item>阿木</item>
+
+        <item>阿龙正罡</item>
+
+        <item>安旭</item>
+
+        <item>阿华</item>
+
+        <item>阿炳</item>
+
+        <item>阿唯</item>
+
+        <item>艾尔肯</item>
+
+        <item>阿强</item>
+
+        <item>阿郎</item>
+
+        <item>安东阳</item>
+
+        <item>阿爆</item>
+
+        <item>阿穆隆</item>
+
+        <item>阿吉</item>
+
+        <item>阿浩</item>
+
+        <item>艾斯卡尔</item>
+
+
+        <item>布仁巴雅尔</item>
+
+        <item>滨哥</item>
+
+        <item>保剑锋</item>
+
+        <item>bt老师</item>
+
+        <item>布川</item>
+
+
+        <item>陈楚生</item>
+
+        <item>长春虫子</item>
+
+        <item>陈星</item>
+
+        <item>迟志强</item>
+
+        <item>陈玉建</item>
+
+        <item>曹磊</item>
+
+        <item>陈少华</item>
+
+        <item>崔健</item>
+
+        <item>陈坤</item>
+
+        <item>蔡国庆</item>
+
+        <item>痴心王子</item>
+
+        <item>陈德志</item>
+
+        <item>川子</item>
+
+        <item>陈艺鹏</item>
+
+        <item>陈雅森</item>
+
+        <item>陈汝佳</item>
+
+        <item>崔永元</item>
+
+        <item>陈超</item>
+
+        <item>陈兴</item>
+
+        <item>陈飞彤</item>
+
+        <item>陈爽</item>
+
+        <item>苍宇</item>
+
+        <item>蔡俊威</item>
+
+        <item>常海</item>
+
+        <item>崔恕</item>
+
+        <item>曹轩宾</item>
+
+        <item>陈彼得</item>
+
+
+        <item>刀郎</item>
+
+        <item>东来东往</item>
+
+        <item>大漠刀郎</item>
+
+        <item>大哲</item>
+
+        <item>丁咚</item>
+
+        <item>东方骏</item>
+
+        <item>戴军</item>
+
+        <item>窦唯</item>
+
+        <item>刁寒</item>
+
+        <item>董赫男</item>
+
+        <item>戴玉强</item>
+
+        <item>丁汀</item>
+
+        <item>东山少爷</item>
+
+        <item>笪剑</item>
+
+        <item>丁于</item>
+
+        <item>董一帆</item>
+
+        <item>窦鹏</item>
+
+        <item>多亮</item>
+
+
+        <item>尔萨</item>
+
+
+        <item>冯乔</item>
+
+        <item>樊凡</item>
+
+        <item>冯晓泉</item>
+
+        <item>范学斌</item>
+
+        <item>冯磊</item>
+
+        <item>范宏伟</item>
+
+        <item>范野</item>
+
+        <item>冯冬</item>
+
+        <item>浮克</item>
+
+
+        <item>高进</item>
+
+        <item>郭峰</item>
+
+        <item>广智</item>
+
+        <item>高山林</item>
+
+        <item>顾峰</item>
+
+        <item>顾建华</item>
+
+        <item>关喆</item>
+
+        <item>高林生</item>
+
+        <item>高枫</item>
+
+        <item>郭敬明</item>
+
+        <item>顾海滨</item>
+
+        <item>顾晓宇</item>
+
+        <item>格里杰夫</item>
+
+        <item>葛优</item>
+
+        <item>管维嘉</item>
+
+        <item>高隆</item>
+
+        <item>苟伟</item>
+
+        <item>郭顶</item>
+
+        <item>光磊</item>
+
+        <item>高晓松</item>
+
+        <item>郭亮</item>
+
+        <item>谷僳</item>
+
+
+        "H">
+
+        <item>欢子</item>
+
+        <item>胡彦斌</item>
+
+        <item>海鸣威</item>
+
+        <item>后弦</item>
+
+        <item>胡歌</item>
+
+        <item>韩磊</item>
+
+        <item>黑龙</item>
+
+        <item>黄晓明</item>
+
+        <item>浩瀚</item>
+
+        <item>胡佳琛</item>
+
+        <item>何炅</item>
+
+        <item>胡力</item>
+
+        <item>胡清蓝</item>
+
+        <item>黄阅</item>
+
+        <item>火风</item>
+
+        <item>黄磊</item>
+
+        <item>皓天</item>
+
+        <item>含笑</item>
+
+        <item>郝歌</item>
+
+        <item>华少翌</item>
+
+        <item>韩超</item>
+
+        <item>侯旭</item>
+
+        <item>黄鑫</item>
+
+        <item>韩晓</item>
+
+        <item>黑棒</item>
+
+        <item>韩寒</item>
+
+        <item>何杰</item>
+
+        <item>何勇</item>
+
+        <item>胡兵</item>
+
+        <item>韩春</item>
+
+        <item>胡江伟</item>
+
+        <item>韩智健</item>
+
+        <item>胡东</item>
+
+        <item>海生</item>
+
+        <item>洪一平</item>
+
+        <item>侯强</item>
+
+        <item>郝云</item>
+
+        <item>胡白</item>
+
+        <item>何建清</item>
+
+        <item>韩亮</item>
+
+        <item>胡畔</item>
+
+        <item>何味奇</item>
+
+        <item>韩宇</item>
+
+        <item>胡吗个</item>
+
+        <item>黄海涛</item>
+
+        <item>侯长青</item>
+
+
+        <item>姜玉阳</item>
+
+        <item>蒋大为</item>
+
+        <item>姜鹏</item>
+
+        <item>江涛</item>
+
+        <item>江智民</item>
+
+        <item>金泽</item>
+
+        <item>姜征</item>
+
+        <item>金志文</item>
+
+        <item>姜超</item>
+
+        <item>金波</item>
+
+        <item>吉杰</item>
+
+        <item>金木</item>
+
+        <item>贾喆</item>
+
+        <item>姜木</item>
+
+        <item>江俐奇</item>
+
+        <item>蒋舟</item>
+
+        <item>金家绪</item>
+
+        <item>金熙泽</item>
+
+
+        <item>柯羽</item>
+
+        <item>酷客</item>
+
+
+        <item>蓝雨</item>
+
+        <item>刘欢</item>
+
+        <item>刘嘉亮</item>
+
+        <item>老狼</item>
+
+        <item>李炳辰</item>
+
+        <item>刘可</item>
+
+        <item>雷龙</item>
+
+        <item>刘思伟</item>
+
+        <item>刘和刚</item>
+
+        <item>李琛</item>
+
+        <item>龙晓飞</item>
+
+        <item>李晓杰</item>
+
+        <item>李易峰</item>
+
+        <item>刘冲</item>
+
+        <item>李维</item>
+
+        <item>李泉</item>
+
+        <item>林海</item>
+
+        <item>李春波</item>
+
+        <item>龙军</item>
+
+        <item>陆毅</item>
+
+        <item>林依轮</item>
+
+        <item>刘牧</item>
+
+        <item>陆虎</item>
+
+        <item>罗中旭</item>
+
+        <item>郎朗</item>
+
+        <item>李健</item>
+
+        <item>李天华</item>
+
+        <item>林颐</item>
+
+        <item>林剑衡</item>
+
+        <item>李萌</item>
+
+        <item>李泽坚</item>
+
+        <item>吕飞</item>
+
+        <item>李俊旭</item>
+
+        <item>李风持</item>
+
+        <item>刘一喆</item>
+
+        <item>李小龙</item>
+
+        <item>林锋</item>
+
+        <item>刘亮鹭</item>
+
+        <item>李进</item>
+
+        <item>李雨寿</item>
+
+        <item>廖昌永</item>
+
+        <item>刘罡</item>
+
+        <item>林木</item>
+
+        <item>吕继宏</item>
+
+        <item>李雪</item>
+
+        <item>李志</item>
+
+        <item>刘斌</item>
+
+        <item>廖健</item>
+
+        <item>李明翰</item>
+
+        <item>栗锦</item>
+
+        <item>李云迪</item>
+
+        <item>林浩威</item>
+
+        <item>龙川</item>
+
+        <item>李直</item>
+
+        <item>零峰</item>
+
+        <item>吕思清</item>
+
+        <item>刘尊</item>
+
+        <item>李贵府</item>
+
+        <item>李政</item>
+
+        <item>李延亮</item>
+
+        <item>刘原龙</item>
+
+        <item>李加靓</item>
+
+        <item>李成</item>
+
+        <item>刘刚</item>
+
+        <item>刘仲仪</item>
+
+        <item>罗南</item>
+
+        <item>力克</item>
+
+        <item>梁永斌</item>
+
+        <item>刘艺涵</item>
+
+        <item>李保涛</item>
+
+        <item>李一哲</item>
+
+        <item>廖百威</item>
+
+        <item>雷亮</item>
+
+        <item>林圣男</item>
+
+        <item>李永昌</item>
+
+        <item>李晓</item>
+
+        <item>李童谣</item>
+
+        <item>六哲</item>
+
+
+        <item>马天宇</item>
+
+        <item>满文军</item>
+
+        <item>毛宁</item>
+
+        <item>马健涛</item>
+
+        <item>满江</item>
+
+        <item>马季</item>
+
+        <item>孟刚</item>
+
+        <item>麦子杰</item>
+
+        <item>马文吉</item>
+
+        <item>马保罗</item>
+
+        <item>明凯</item>
+
+        <item>麦柯</item>
+
+
+        <item>牛朝阳</item>
+
+        <item>南风</item>
+
+        <item>那森</item>
+
+
+        <item>庞龙</item>
+
+        <item>朴树</item>
+
+        <item>蒲巴甲</item>
+
+        <item>葡桃</item>
+
+        <item>彭亮</item>
+
+        <item>彭柯</item>
+
+        <item>彭凯</item>
+
+        <item>彭坦</item>
+
+        <item>蒲洋</item>
+
+        <item>普布次仁</item>
+
+
+        <item>齐峰</item>
+
+        <item>乔任梁</item>
+
+        <item>乔长乐</item>
+
+
+        <item>饶天亮</item>
+
+        <item>容中尔甲</item>
+
+
+        <item>孙楠</item>
+
+        <item>山野</item>
+
+        <item>沙宝亮</item>
+
+        <item>苏醒</item>
+
+        <item>誓言</item>
+
+        <item>孙小宝</item>
+
+        <item>孙铭宇</item>
+
+        <item>舒鸣</item>
+
+        <item>施文斌</item>
+
+        <item>孙国庆</item>
+
+        <item>宋雪莱</item>
+
+        <item>苏洲</item>
+
+        <item>孙渔</item>
+
+        <item>单良</item>
+
+        <item>沈建祥</item>
+
+        <item>石卫</item>
+
+        <item>孙辉</item>
+
+        <item>邵兵</item>
+
+        <item>孙逊</item>
+
+        <item>苏宇舟</item>
+
+
+        <item>汤潮</item>
+
+        <item>田一龙</item>
+
+        <item>腾格尔</item>
+
+        <item>屠洪纲</item>
+
+        <item>唐磊</item>
+
+        <item>佟大为</item>
+
+        <item>铁石</item>
+
+        <item>谭圳</item>
+
+        <item>谈欣</item>
+
+
+        <item>王键</item>
+
+        <item>汪峰</item>
+
+        <item>王宝强</item>
+
+        <item>王强</item>
+
+        <item>魏晨</item>
+
+        <item>王羽泽</item>
+
+        <item>王鹤铮</item>
+
+        <item>王绎龙</item>
+
+        <item>王建树</item>
+
+        <item>王宏伟</item>
+
+        <item>王子鸣</item>
+
+        <item>吴涤清</item>
+
+        <item>王啸坤</item>
+
+        <item>万阳</item>
+
+        <item>吴小豪</item>
+
+        <item>吴欢</item>
+
+        <item>王启文</item>
+
+        <item>吴品醇</item>
+
+        <item>王中平</item>
+
+        <item>王童语</item>
+
+        <item>吴峙轩</item>
+
+        <item>汪涵</item>
+
+        <item>王琥</item>
+
+        <item>武家祥</item>
+
+        <item>王梓宏</item>
+
+        <item>王珏</item>
+
+        <item>王磊</item>
+
+        <item>王宇鹏</item>
+
+        <item>万晓利</item>
+
+        <item>万沛鑫</item>
+
+        <item>吴炜</item>
+
+        <item>吴斌</item>
+
+        <item>王进</item>
+
+        <item>王梓旭</item>
+
+        <item>王征</item>
+
+        <item>王绍博</item>
+
+        <item>吴翼男</item>
+
+        <item>王一凡</item>
+
+        <item>翁培伦</item>
+
+        <item>吴向飞</item>
+
+        <item>巫一凡</item>
+
+        <item>王子建</item>
+
+
+        <item>许嵩</item>
+
+        <item>谢军</item>
+
+        <item>徐誉滕</item>
+
+        <item>许巍</item>
+
+        <item>薛之谦</item>
+
+        <item>徐靖博</item>
+
+        <item>小曾</item>
+
+        <item>徐子崴</item>
+
+        <item>小柯</item>
+
+        <item>肖飞</item>
+
+        <item>雪村</item>
+
+        <item>薛晓枫</item>
+
+        <item>小鸣</item>
+
+        <item>小村</item>
+
+        <item>谢有才</item>
+
+        <item>熊汝霖</item>
+
+        <item>谢东</item>
+
+        <item>小类</item>
+
+        <item>解晓东</item>
+
+        <item>小冀</item>
+
+        <item>小光</item>
+
+        <item>小k</item>
+
+        <item>谢华</item>
+
+        <item>解小东</item>
+
+        <item>小舟</item>
+
+        <item>许乐</item>
+
+        <item>萧全</item>
+
+        <item>小勇</item>
+
+        <item>小东</item>
+
+        <item>徐晓吉</item>
+
+        <item>啸楠</item>
+
+        <item>旭天</item>
+
+        <item>肖山</item>
+
+        <item>小非</item>
+
+        <item>晓路</item>
+
+        <item>辛子奇</item>
+
+        <item>秀才</item>
+
+
+        <item>宇桐非</item>
+
+        <item>杨坤</item>
+
+        <item>易欣</item>
+
+        <item>雨天</item>
+
+        <item>阎维文</item>
+
+        <item>亚东</item>
+
+        <item>阳一</item>
+
+        <item>余润泽</item>
+
+        <item>粥稀稀</item>
+
+        <item>杨刚</item>
+
+        <item>余波</item>
+
+        <item>易丹</item>
+
+        <item>杨川平</item>
+
+        <item>杨斌</item>
+
+        <item>于夫</item>
+
+        <item>姚乙</item>
+
+        <item>颜振豪</item>
+
+        <item>严宽</item>
+
+        <item>尹相杰</item>
+
+        <item>云开</item>
+
+        <item>严波</item>
+
+        <item>闫安</item>
+
+        <item>杨峻荣</item>
+
+        <item>殷浩</item>
+
+        <item>有钱的狗</item>
+
+        <item>应子栋</item>
+
+        <item>袁嘉乐</item>
+
+        <item>袁树雄</item>
+
+        <item>元通</item>
+
+        <item>虞洋</item>
+
+
+        <item>郑源</item>
+
+        <item>张杰</item>
+
+        <item>张敬轩</item>
+
+        <item>周桐同</item>
+
+        <item>郑钧</item>
+
+        <item>张政</item>
+
+        <item>张艾文</item>
+
+        <item>子冬</item>
+
+        <item>臧天朔</item>
+
+        <item>赵鹏</item>
+
+        <item>宗成玮</item>
+
+        <item>张津涤</item>
+
+        <item>紫龙</item>
+
+        <item>张行</item>
+
+        <item>张楚</item>
+
+        <item>张志林</item>
+
+        <item>赵凯</item>
+
+        <item>张启辉</item>
+
+        <item>张伯宏</item>
+
+        <item>扎西顿珠</item>
+
+        <item>朱国豪</item>
+
+        <item>张勇</item>
+
+        <item>翟羽佳</item>
+
+        <item>曾嵘</item>
+
+        <item>郑宇文</item>
+
+        <item>赵云龙</item>
+
+        <item>张一益</item>
+
+        <item>张萌萌</item>
+
+        <item>张挥</item>
+
+        <item>赵英俊</item>
+
+        <item>张毅</item>
+
+        <item>左小祖咒</item>
+
+        <item>张皓</item>
+
+        <item>张博</item>
+
+        <item>张亚东</item>
+
+        <item>曾缔</item>
+
+        <item>周云蓬</item>
+
+        <item>张东</item>
+
+        <item>张真贺</item>
+
+        <item>张迪</item>
+
+        <item>周秋同</item>
+
+        <item>左小诅咒</item>
+
+        <item>钟立风</item>
+
+        <item>周辰俙</item>
+
+        <item>赵晨</item>
+
+        <item>周冬晨</item>
+
+        <item>赵钦</item>
+
+        <item>张伦硕</item>
+
+        <item>曾春年</item>
+
+
+        <item>安又琪</item>
+
+        <item>阿朵</item>
+
+        <item>爱戴</item>
+
+        <item>艾莉莎</item>
+
+        <item>艾梦萌</item>
+
+        <item>阿鲁阿卓</item>
+
+        <item>艾晴晴</item>
+
+        <item>阿茹娜</item>
+
+        <item>阿果</item>
+
+        <item>艾敬</item>
+
+        <item>艾心</item>
+
+        <item>艾轶曼</item>
+
+        <item>阿紫</item>
+
+        <item>鞍安</item>
+
+        <item>艾可</item>
+
+
+        <item>宝儿</item>
+
+        <item>白雪</item>
+
+        <item>碧娜</item>
+
+        <item>巴桑</item>
+
+        <item>柏文</item>
+
+
+        <item>陈瑞</item>
+
+        <item>陈明</item>
+
+        <item>常艾非</item>
+
+        <item>程琳</item>
+
+        <item>陈琳</item>
+
+        <item>陈好</item>
+
+        <item>曹雪</item>
+
+        <item>车静子</item>
+
+        <item>陈倩倩</item>
+
+        <item>陈红</item>
+
+        <item>陈思思</item>
+
+        <item>曹卉娟</item>
+
+        <item>常安</item>
+
+        <item>曹颖</item>
+
+        <item>陈洁丽</item>
+
+        <item>陈妃平</item>
+
+        <item>曹方</item>
+
+        <item>成方圆</item>
+
+        <item>陈果</item>
+
+        <item>曹璐</item>
+
+        <item>陈姿</item>
+
+        <item>陈嘉琦</item>
+
+        <item>陈雪君</item>
+
+        <item>程欣</item>
+
+        <item>陈玲玉</item>
+
+        <item>陈韵若</item>
+
+        <item>陈娟儿</item>
+
+
+        "D">
+
+        <item>董文华</item>
+
+        <item>德德玛</item>
+
+        <item>戴雪儿</item>
+
+        <item>戴娆</item>
+
+        <item>段玫梅</item>
+
+        <item>董贞</item>
+
+        <item>丁薇</item>
+
+        <item>德乾旺姆</item>
+
+        <item>达坡玛吉</item>
+
+        <item>邓容</item>
+
+        <item>董燕妮</item>
+
+        <item>戴梓伊</item>
+
+        <item>戴玲</item>
+
+        <item>段银莹</item>
+
+        <item>董沁</item>
+
+
+        "F">
+
+        <item>樊桐舟</item>
+
+        <item>范冰冰</item>
+
+        <item>付娜</item>
+
+        <item>范海荣</item>
+
+        <item>方芳</item>
+
+        <item>付佳明</item>
+
+        <item>费星</item>
+
+        <item>方晓青</item>
+
+
+        "G">
+
+        <item>龚玥</item>
+
+        <item>格格</item>
+
+        <item>高娅媛</item>
+
+        <item>郭易</item>
+
+        <item>甘萍</item>
+
+        <item>甘雅丹</item>
+
+        <item>关牧村</item>
+
+        <item>郭燕</item>
+
+        <item>古璇</item>
+
+        <item>高娜</item>
+
+        <item>郭乔伊</item>
+
+        <item>关悦</item>
+
+        <item>郭凌霞</item>
+
+        <item>高菲</item>
+
+        <item>恭僖禧</item>
+
+
+        "H">
+
+        <item>韩红</item>
+
+        <item>黄圣依</item>
+
+        <item>韩晶</item>
+
+        <item>韩雪</item>
+
+        <item>黄灿</item>
+
+        <item>黄雅莉</item>
+
+        <item>胡杨林</item>
+
+        <item>何洁</item>
+
+        <item>韩真真</item>
+
+        <item>海楠</item>
+
+        <item>衡越</item>
+
+        <item>胡雯</item>
+
+        <item>胡灵</item>
+
+        <item>何静</item>
+
+        <item>黄琬婷</item>
+
+        <item>何慕男</item>
+
+        <item>黄江琴</item>
+
+        <item>胡瑶</item>
+
+        <item>黄龄</item>
+
+        <item>黄奕</item>
+
+        <item>黄韵</item>
+
+        <item>花泽冰</item>
+
+        <item>哈辉</item>
+
+        <item>虎妞</item>
+
+        <item>黄琦雯</item>
+
+        <item>黄绮珊</item>
+
+        <item>韩小薰</item>
+
+
+        "J">
+
+        <item>金海心</item>
+
+        <item>金莎</item>
+
+        <item>江珊</item>
+
+        <item>纪敏佳</item>
+
+        <item>嘉恋</item>
+
+        <item>姜婷婷</item>
+
+        <item>金美儿</item>
+
+        <item>姜苏</item>
+
+        <item>姜昕</item>
+
+        <item>江希文</item>
+
+        <item>巨一清</item>
+
+        <item>江一燕</item>
+
+        <item>伽菲珈而</item>
+
+        <item>景甜</item>
+
+        <item>金善姬</item>
+
+        <item>金池</item>
+
+        <item>金伶</item>
+
+        <item>金伊彤</item>
+
+
+        "K">
+
+        <item>侃侃</item>
+
+        <item>卡洛儿</item>
+
+
+        "L">
+
+        <item>李宇春</item>
+
+        <item>李小璐</item>
+
+        <item>李娜</item>
+
+        <item>李慧珍</item>
+
+        <item>李玲玉</item>
+
+        <item>雷婷</item>
+
+        <item>李谷一</item>
+
+        <item>刘芳</item>
+
+        <item>刘力扬</item>
+
+        <item>刘亦菲</item>
+
+        <item>刘紫玲</item>
+
+        <item>龙梅子</item>
+
+        <item>林媚</item>
+
+        <item>李冰冰</item>
+
+        <item>李星儿</item>
+
+        <item>李殊</item>
+
+        <item>刘沁</item>
+
+        <item>李琼</item>
+
+        <item>李西</item>
+
+        <item>林宸希</item>
+
+        <item>蓝沁</item>
+
+        <item>刘佳</item>
+
+        <item>刘菲</item>
+
+        <item>李烁</item>
+
+        <item>梁雁翎</item>
+
+        <item>李湘</item>
+
+        <item>厉娜</item>
+
+        <item>李凌</item>
+
+        <item>罗海英</item>
+
+        <item>林萍</item>
+
+        <item>刘璇</item>
+
+        <item>蓝澜</item>
+
+        <item>刘春美</item>
+
+        <item>李婉茹</item>
+
+        <item>罗琳</item>
+
+        <item>刘芮伊</item>
+
+        <item>吕雯</item>
+
+        <item>李丹阳</item>
+
+        <item>刘春红</item>
+
+        <item>李煜</item>
+
+        <item>刘悦</item>
+
+        <item>李尤</item>
+
+        <item>刘一祯</item>
+
+        <item>黎明花</item>
+
+        <item>梁紫丹</item>
+
+        <item>刘耔彤</item>
+
+        <item>刘婕</item>
+
+        <item>刘雁</item>
+
+        <item>林爽</item>
+
+        <item>李佳</item>
+
+        <item>龙飞飞</item>
+
+        <item>刘雨鑫</item>
+
+        <item>林熙</item>
+
+        <item>李跃君</item>
+
+        <item>陆苹</item>
+
+        <item>罗永娟</item>
+
+        <item>利绮</item>
+
+        <item>黎亚</item>
+
+        <item>林叶</item>
+
+        <item>吕小琴</item>
+
+        <item>廖芬芳</item>
+
+        <item>李曦</item>
+
+        <item>雷茜</item>
+
+        <item>李雅</item>
+
+
+        "M">
+
+        <item>毛阿敏</item>
+
+        <item>孟楠</item>
+
+        <item>莫艳琳</item>
+
+        <item>马小倩</item>
+
+        <item>马蕊</item>
+
+        <item>眉佳</item>
+
+        <item>慕容萱</item>
+
+        <item>迷子</item>
+
+        <item>马梓涵</item>
+
+        <item>曼里</item>
+
+        <item>木子曼</item>
+
+        <item>苗圃</item>
+
+        <item>闵芳</item>
+
+        <item>毛苏</item>
+
+        <item>梦洁</item>
+
+        <item>马格</item>
+
+        <item>梦喃</item>
+
+        <item>木乃七斤</item>
+
+        <item>梦雨</item>
+
+
+        "N">
+
+        <item>那英</item>
+
+        <item>Nana</item>
+
+        <item>倪雅丰</item>
+
+        <item>倪睿思</item>
+
+        <item>倪虹洁</item>
+
+
+        "P">
+
+        <item>彭丽媛</item>
+
+        <item>彭芳</item>
+
+        <item>潘阳</item>
+
+        <item>彭清</item>
+
+        <item>潘军</item>
+
+        <item>品月</item>
+
+
+        "Q">
+
+        <item>瞿颖</item>
+
+        <item>乔维怡</item>
+
+        <item>琼雪卓玛</item>
+
+        <item>秦海璐</item>
+
+        <item>乔乔</item>
+
+        <item>秋秋</item>
+
+        <item>琪琪格</item>
+
+
+        "R">
+
+        <item>任静</item>
+
+        <item>蓉儿</item>
+
+        <item>任芳</item>
+
+        <item>任雪晨</item>
+
+        <item>任真</item>
+
+
+        "S">
+
+        <item>斯琴高丽</item>
+
+        <item>宋祖英</item>
+
+        <item>尚雯婕</item>
+
+        <item>孙悦</item>
+
+        <item>孙俪</item>
+
+        <item>石梅</item>
+
+        <item>萨顶顶</item>
+
+        <item>孙露</item>
+
+        <item>斯琴格日乐</item>
+
+        <item>孙嘉敏</item>
+
+        <item>沈丹</item>
+
+        <item>施艾敏</item>
+
+        <item>沈丹丹</item>
+
+        <item>苏汐洋</item>
+
+        <item>索朗旺姆</item>
+
+        <item>孙思怡</item>
+
+        <item>苏素</item>
+
+        <item>苏云</item>
+
+        <item>苏曼</item>
+
+        <item>塞宁</item>
+
+        <item>施怡</item>
+
+        <item>孙洁</item>
+
+        <item>孙羡真</item>
+
+        <item>孙琳</item>
+
+
+        "T">
+
+        <item>田震</item>
+
+        <item>谭晶</item>
+
+        <item>谭维维</item>
+
+        <item>童丽</item>
+
+        <item>汤灿</item>
+
+        <item>童彤</item>
+
+        <item>童蕾</item>
+
+        <item>唐蕊</item>
+
+        <item>田甜</item>
+
+        <item>童童</item>
+
+        <item>唐尧麟</item>
+
+
+        "W">
+
+        <item>王筝</item>
+
+        <item>王麟</item>
+
+        <item>王冰洋</item>
+
+        <item>魏佳艺</item>
+
+        <item>乌兰托娅</item>
+
+        <item>韦唯</item>
+
+        <item>王雅洁</item>
+
+        <item>魏雪漫</item>
+
+        <item>王恩琦</item>
+
+        <item>王袁</item>
+
+        <item>汪蕊</item>
+
+        <item>王思思</item>
+
+        <item>韦嘉</item>
+
+        <item>吴琼</item>
+
+        <item>乌杩</item>
+
+        <item>王菲菲</item>
+
+        <item>王婧</item>
+
+        <item>吴晓娜</item>
+
+        <item>王雪</item>
+
+        <item>文静宁</item>
+
+        <item>琬婷</item>
+
+        <item>王珺</item>
+
+        <item>王丽达</item>
+
+        <item>吴瑶</item>
+
+        <item>万茜</item>
+
+        <item>王梓</item>
+
+        <item>王缇</item>
+
+        <item>WENDY</item>
+
+        <item>文筱芮</item>
+
+
+        "X">
+
+        <item>弦子</item>
+
+        <item>徐千雅</item>
+
+        <item>谢娜</item>
+
+        <item>许飞</item>
+
+        <item>馨予</item>
+
+        <item>谢雨欣</item>
+
+        <item>辛欣</item>
+
+        <item>希亚</item>
+
+        <item>小e</item>
+
+        <item>雪儿</item>
+
+        <item>小月</item>
+
+        <item>奚秀兰</item>
+
+        <item>谢浛露</item>
+
+        <item>徐立</item>
+
+        <item>小宋佳</item>
+
+        <item>晓雯</item>
+
+        <item>徐颢菲</item>
+
+        <item>西施</item>
+
+        <item>晓花</item>
+
+        <item>小琪</item>
+
+        <item>小玉荣子</item>
+
+        <item>小果</item>
+
+        <item>谢亮子</item>
+
+        <item>小涵</item>
+
+        <item>熊晓雯</item>
+
+        <item>肖燕</item>
+
+        <item>徐静蕾</item>
+
+        <item>希婕</item>
+
+        <item>小玥</item>
+
+
+        "Y">
+
+        <item>央金兰泽</item>
+
+        <item>杨钰莹</item>
+
+        <item>袁泉</item>
+
+        <item>杨蔓</item>
+
+        <item>俞静</item>
+
+        <item>云儿非</item>
+
+        <item>岳夏</item>
+
+        <item>杨紫</item>
+
+        <item>叶蓓</item>
+
+        <item>雁卿</item>
+
+        <item>英格玛</item>
+
+        <item>岳薇</item>
+
+        <item>杨竹青</item>
+
+        <item>玉萨</item>
+
+        <item>岳微</item>
+
+        <item>叶一茜</item>
+
+        <item>于文华</item>
+
+        <item>俞佳</item>
+
+        <item>姚璎格</item>
+
+        <item>月亮</item>
+
+        <item>姚斯婷</item>
+
+        <item>杨茜</item>
+
+        <item>杨曼莉</item>
+
+        <item>晏菲</item>
+
+        <item>杨洋</item>
+
+        <item>姚清</item>
+
+        <item>伊琳</item>
+
+        <item>杨小琳</item>
+
+        <item>杨雪霏</item>
+
+        <item>于娜</item>
+
+        <item>阳蕾</item>
+
+        <item>筠子</item>
+
+        <item>一木一米</item>
+
+        <item>袁沁</item>
+
+        <item>缨婷</item>
+
+        <item>叶明子</item>
+
+
+        "Z">
+
+        <item>张靓颖</item>
+
+        <item>周笔畅</item>
+
+        <item>赵薇</item>
+
+        <item>张含韵</item>
+
+        <item>祖海</item>
+
+        <item>郑绪岚</item>
+
+        <item>郑凡</item>
+
+        <item>周迅</item>
+
+        <item>周冰倩</item>
+
+        <item>朱哲琴</item>
+
+        <item>张也</item>
+
+        <item>张力尹</item>
+
+        <item>张蔷</item>
+
+        <item>卓亚君</item>
+
+        <item>张瑶</item>
+
+        <item>周彦宏</item>
+
+        <item>张燕</item>
+
+        <item>张恒</item>
+
+        <item>张芯</item>
+
+        <item>周虹</item>
+
+        <item>周鹏</item>
+
+        <item>钟萱</item>
+
+        <item>张拉拉</item>
+
+        <item>朱晓琳</item>
+
+        <item>周璇</item>
+
+        <item>曾黎</item>
+
+        <item>子涵</item>
+
+        <item>周子琪</item>
+
+        <item>张丹丹</item>
+
+        <item>张真菲</item>
+
+        <item>朱桦</item>
+
+        <item>赵默</item>
+
+        <item>张曼莉</item>
+
+        <item>赵静怡</item>
+
+        <item>张咪</item>
+
+        <item>周薇</item>
+
+        <item>张迈</item>
+
+        <item>郑阳</item>
+
+        <item>赵蓉</item>
+
+        <item>张瑜</item>
+
+        <item>张可可</item>
+
+        <item>郑丽君</item>
+
+        <item>朱婧</item>
+
+        <item>邹子倍</item>
+
+        <item>卓嘎</item>
+
+        <item>朱玲</item>
+
+        <item>梓旭</item>
+
+        <item>周小雨</item>
+
+        <item>张欣欣</item>
+
+        <item>张语倢</item>
+
+        <item>邹莉</item>
+
+        <item>庄莹</item>
+
+        <item>郑潇</item>
+
+        <item>周小璇</item>
+
+        <item>张雯婷</item>
+
+        <item>郑玉帆</item>
+
+        <item>张雅未</item>
+
+        <item>张妮可</item>
+
+        <item>张浅潜</item>
+
+        <item>张钰茜</item>
+
+        <item>张靓玫</item>
+
+        <item>张睿恩</item>
+
+        <item>爱乐团</item>
+
+        <item>阿里郎</item>
+
+        <item>阿佳组合</item>
+
+        <item>爱乐公社</item>
+
+        <item>阿修罗乐队</item>
+
+
+        "B">
+
+        <item>BOBO</item>
+
+        <item>布衣乐队</item>
+
+        <item>鲍家街43号</item>
+
+        <item>八只眼</item>
+
+        <item>B.O.B心跳男孩</item>
+
+        <item>冰火组合</item>
+
+        <item>百慕三石</item>
+
+        <item>北京天使合唱团</item>
+
+        <item>baby monkiz</item>
+
+        <item>baby Q</item>
+
+
+        "C">
+
+        <item>城市姐妹</item>
+
+        <item>春秋乐队</item>
+
+        <item>超级市场</item>
+
+        <item>茶乐团</item>
+
+        <item>Carsick Cars</item>
+
+        <item>吹波糖</item>
+
+
+        "D">
+
+        <item>达达乐队</item>
+
+        <item>大乔小乔</item>
+
+        <item>discovery乐团</item>
+
+        <item>D-Evil</item>
+
+        <item>丁香晓晓</item>
+
+        <item>达与璐</item>
+
+        <item>大陆断层</item>
+
+
+        "E">
+
+        <item>额尔古纳乐队</item>
+
+        <item>二手玫瑰</item>
+
+
+        "F">
+
+        <item>凤凰传奇</item>
+
+        <item>反光镜乐队</item>
+
+        <item>芳华十八</item>
+
+        <item>废墟乐队</item>
+
+        <item>fusion乐团</item>
+
+
+        "G">
+
+        <item>功夫派</item>
+
+        <item>果味VC</item>
+
+        <item>挂在盒子上</item>
+
+        <item>国王乐队</item>
+
+
+        <item>黑鸭子合唱组</item>
+
+        <item>花儿乐队</item>
+
+        <item>后舍男生</item>
+
+        <item>黑豹</item>
+
+
+        <item>1983组合</item>
+
+        <item>2KON</item>
+    </array>
+</resources>
